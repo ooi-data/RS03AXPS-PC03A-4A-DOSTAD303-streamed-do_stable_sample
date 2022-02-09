@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-PC03A-4A-DOSTAD303-streamed-do_stable_sample
 data_stream: RS03AXPS-PC03A-4A-DOSTAD303-streamed-do_stable_sample
 end_date: '2022-02-07T17:42:57.553Z'
-last_updated: '2022-02-09T04:36:19.897849Z'
+last_updated: '2022-02-09T04:55:56.682996'
 start_date: '2019-06-16T14:58:18.467Z'
-status: pending
+status: success
